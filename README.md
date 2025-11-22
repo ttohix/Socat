@@ -7,4 +7,4 @@ wget -Nq https://github.com/Musixal/socat/raw/main/socat.sh && bash socat.sh
 **Unfortunately, IPv6 is not supported in this script. I strongly recommend using HAProxy script.**
 
 # Menu
-![Menu](https://github.com/Musixal/socat/blob/main/socat-tunnel.png)
+![Menu](https://github.com/ttohix/socat/blob/main/socat-tunnel.png)
